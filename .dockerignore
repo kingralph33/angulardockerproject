@@ -1,0 +1,15 @@
+.dockerignore
+./log
+./tmp
+package.lock.json
+.git
+*Dockerfile*
+*docker-compose*
+node_modules
+dist/npm-debug.log
+npm-debug.log
+.gitignore
+README.md
+LICENSE
+.vscode
+
